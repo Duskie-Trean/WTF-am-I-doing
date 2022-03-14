@@ -2,6 +2,13 @@ body {
   background: #EEE;
   margin: 0;
   padding: 0;
-  font-family: 'Metropolis Regular', sans-serif;
 }
 
+p {
+  font-family: 'Metropolis Regular', sans-serif;
+  color: grey;
+}
+
+.title {
+  font-family: Verdana;
+}
