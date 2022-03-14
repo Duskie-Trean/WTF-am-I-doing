@@ -7,8 +7,8 @@ body {
 p {
   font-family: 'Courier New', sans-serif;
   color: grey;
-  margin: 100;
-  padding: 50;
+  margin: 50;
+  padding: 0;
 }
 
 .title {
