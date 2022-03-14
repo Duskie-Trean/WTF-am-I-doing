@@ -1,12 +1,14 @@
 body {
   background: #EEE;
-  margin: 5;
+  margin: 0;
   padding: 0;
 }
 
 p {
   font-family: 'Courier New', sans-serif;
   color: grey;
+  margin: 10;
+  padding: 5;
 }
 
 .title {
