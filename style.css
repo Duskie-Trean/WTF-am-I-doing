@@ -14,3 +14,8 @@ p {
 .title {
   font-family: Verdana;
 }
+
+li  {
+  font-family: 'Arial Rounded', sans-serif;
+  color: grey;
+}
